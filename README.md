@@ -9,6 +9,7 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -57,5 +58,5 @@ export const activated = clsx(
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/notfulan)
-- Twitter - [@yourusername](https://www.twitter.com/notfulan)
+- Frontend Mentor - [@notfulan](https://www.frontendmentor.io/profile/notfulan)
+- Twitter - [@notfulan](https://www.twitter.com/notfulan)
